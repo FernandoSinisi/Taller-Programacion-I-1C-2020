@@ -3,7 +3,7 @@
 | Alfonso Amezqueta      |  94732 | alfonso71292@gmail.com    |   
 | Manuel Anderson        | 101230 | manuel121097@gmail.com     |   
 | Esteban Djeordjian     | 100701 | edjeordjian@fi.uba.ar     | 
-| Fernando Sinisi        | 99139  | fersinisi@gmail.com       |
+| Fernando Sinisi        | 99139  | fsinisi@fi.uba.ar       |
 | Nicolás Fandos         | 101018 | ngfandos@gmail.com        | 
 
 ### Usamos:
